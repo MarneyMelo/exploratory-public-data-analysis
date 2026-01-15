@@ -1,4 +1,4 @@
-# Food Security and Homeless Population Analysis - BH
+# Exploratory Public Data Analysis - Homelessness in BH
 
 ---
 

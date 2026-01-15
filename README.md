@@ -1,5 +1,9 @@
 # Food Security and Homeless Population Analysis - BH
 
+---
+
+## About Project
+
 This project was developed as the final assignment for the **Introduction to Databases (2025/2)** course at UFMG.
 
 The goal was to integrate and analyze public data about the homeless population in Belo Horizonte and the availability of food security facilities (community restaurants), identifying gaps in social assistance and demographic patterns.
@@ -57,3 +61,5 @@ The system connects data from homeless people (Cadastro Único), CRAS (Social As
   * **Theo Duarte** - [theolara272727](https://github.com/theolara272727)
   * **Victor Kaizer** - [KaizerBlank](https://github.com/KaizerBlank)
   * **Vinicius Rochar** - [vrrocha-scs](https://github.com/vrrocha-scs)
+
+---
